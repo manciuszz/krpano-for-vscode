@@ -35,7 +35,8 @@
                     "krpano"
                 ],
                 "extensions": [
-                    ".kml"
+                    ".kml",
+		    ".xml"
                 ],
                 "firstLine": "\\<\\?krpano.*",
                 "configuration": "./language-configuration.json"
